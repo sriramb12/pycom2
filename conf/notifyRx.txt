@@ -1,0 +1,12 @@
+Hi recipient
+
+There is a file sent for you using icom application. These are details you can retrieve  the file using the command :
+
+./get.sh -f filehandle 
+
+txnId:txnid
+sender:senderemail
+File:filehandle
+
+Sincerely
+Team nxp
